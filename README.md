@@ -31,7 +31,7 @@ The dashboard provides a clear visualization of key performance indicators (KPIs
 
   ## 📸 Dashboard Preview
 
-![Super Market Sales Dashboard](dashboard.png)
+<img width="870" height="632" alt="Screenshot 2026-10-01 114725" src="https://github.com/user-attachments/assets/f30532cd-eeb2-4e1e-8c59-82f781ea1f88" />
 
 
 ## 📊 Key Analysis Areas
